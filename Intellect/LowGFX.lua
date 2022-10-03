@@ -18,6 +18,7 @@ local INTELLECT4 = Instance.new("TextLabel")
 LowGFX.Name = "LowGFX"
 LowGFX.Parent = game.CoreGui
 LowGFX.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LowGFX.Enabled = false
 
 Background.Name = "Background"
 Background.Parent = LowGFX
